@@ -58,7 +58,7 @@ const [open, setOpen] = useState(false);
                   className="md:ml-8 text-xl md:my-0 my-5 cursor-pointer "
                 >
                     
-                  <Link href={page.link} className={`hover:text-gray-400 ${router.pathname === page.link} ? "text-blue-600" : "text-white"}`}>{page.name}</Link>
+                  <Link href={page.link} className={`hover:text-gray-400 ${router.pathname} === ${page.link} ? "text-blue-600" : "text-white"}`}>{page.name}</Link>
                 </li>
               );
             })}

@@ -40,8 +40,8 @@ const DoEpicShitbook = () => {
       <Image height={300} width={400}  src="/e2.webp" alt="ank2" className='hidden lg:block lg:w-[65%] lg:mx-36 rotate-6 hover:rotate-12 rounded-2xl shadow-md shadow-slate-500 ' />
   </div>
   <div className="rightpart flex flex-col w-[90%] justify-start items-start mx-7 lg:mx-0 lg:w-auto mt-5 lg:mt-20 mb-16 lg:mb-16">
-      <h1 className="text-4xl lg:text-5xl text-black">What's inside?</h1>
-      <p className="text-xl py-4 text-gray-500">300 pages. One page a day. Your daily read for a year :)</p>
+      <h1 className="text-4xl lg:text-5xl text-black">What is inside?</h1>
+      <p className="text-xl py-4 text-gray-500">300 pages. One page a day. Your daily read for a year .</p>
       
 
       <div className="chapters flex flex-row space-x-2">
