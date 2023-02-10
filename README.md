@@ -1,34 +1,81 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+# Ankur Warikoo : A Website Clone
 
-First, run the development server:
+One day, I found website of Ankur Warikoo then I decided to make a clone on that website. It was a great experience to work on this project. This website is made using Next.Js and Tailwind CSS. It has been deployed on Vercel.
+<br>
+Please, have a look once !
 
-```bash
-npm run dev
-# or
-yarn dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+## Screenshots
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+I have attached a GIF of this website's home page. <br>
+You can see below here ---
+<br>
 
-## Learn More
+![warikoo](https://user-images.githubusercontent.com/49138951/218059222-c327ad76-5adb-4404-9ae0-31c1b7e45e97.gif)
 
-To learn more about Next.js, take a look at the following resources:
+<br>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Run & Test
 
-## Deploy on Vercel
+This project has been deployed on Vercel.<br>
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+<h3><a href="https://warikoo.vercel.app/">You can click on this link to run this project.</a></h3>
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+
+## Langauage & Tools Used
+
+**FrameWork** : Next Js
+**Language** : JavaScript
+**Styling** : Tailwind CSS
+**Other Tools/Library** : React Icons
+**Deployed On** : Vercel
+
+
+
+
+
+## Features
+
+- Responsiveness.
+- Image Optimazion (Next Image)
+- Used Next Router
+
+
+
+
+## Lessons Learned
+
+While building this project, I revised learning of these things. 
+- Next Js
+- Next Router & Image Optimization
+- Tailwind CSS
+- React Icons etc.
+
+## FAQ
+
+#### Do I need to login or signup to check this ?
+
+No. You need not to login/signup. You can directly proceed to check this.
+
+
+
+
+
+# Hi, I'm Gyanindra. 👋
+
+
+## 🚀 About Me
+I'm working as Analyst at HCL Technologies. I love to design Attractive and Responsive website using React Js, Next Js,Redux, MongoDB, Firebase, Framer Motion, SCSS and Tailwind CSS etc.
+<br>
+
+<a href="https://www.linkedin.com/in/igyanendrayadav/">View LinkedIn Profile</a>
+<br>
+
+Thanks !!!
+
