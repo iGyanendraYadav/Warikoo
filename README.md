@@ -45,6 +45,7 @@ This project has been deployed on Vercel.<br>
 - Responsiveness.
 - Image Optimazion (Next Image)
 - Used Next Router
+- Scroll To top Feature
 
 
 
